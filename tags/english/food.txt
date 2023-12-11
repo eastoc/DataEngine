@@ -1,0 +1,313 @@
+porridge
+noodles
+Pulled noodles
+Fried noodles
+udon
+Cold noodle
+Instant noodles
+rice
+Plain rice
+Fried Rice
+curry rice
+Steamed Rice in Clay Pot
+Over rice
+Soup rice
+Curry rice
+Glutinous rice
+rice dumpling
+rice ball
+Sumai
+Fried rice cake
+Rice cake soup
+steamed bread
+steamed twisted roll
+steamed bun
+Fishballsoup
+Meatballsoup
+soup
+dumpling
+wonton
+Lean meatball
+rice dumpling
+rougamo
+Baked roll
+pasty
+Grasping pancake
+Egg pancake
+Egg cakes
+Self-heating hot pot
+Self-heating rice
+Stir-fried vegetable
+Stir-fried cabbage
+Fried shredded potatoes
+Fried potato chips
+Stir-fried eggplant
+Hand-torn cabbage
+Mapo tofu
+Lotus root slices
+cauliflower
+broccoli
+cucumber
+agaric
+Kung Pao Chicken
+chicken
+Roast duck
+duck meat
+Braised Pork
+Sweet and Sour Spare Ribs
+meat ball
+fish
+fish soup
+Fresh oyster
+shrimp
+scallop
+Crab casserole with meat
+Scrambled eggs
+roast meat
+Mutton shashlik
+beef
+tofu
+Lotus root slices
+Chinese leek
+Corn
+Sweet potato
+Pepper
+bean
+cauliflower
+Potato
+cabbage
+hotpot
+Beef roll
+pelletoid
+tripe
+Black bean
+Ormosia bean
+Soya beans
+Mung bean
+Soya bean
+Broad bean
+pea
+Black bean
+coffee bean
+Edible oil
+sauce
+Curry paste
+Black pepper sauce
+Tomato sauce
+Chili sauce
+Hot pot base
+Hot pot seasoning
+curry
+Edible salt
+Pepper
+condiment
+Rock candy
+Custer sugar
+Brown sugar
+honey
+butter
+cheese
+Jelly
+pudding
+biscuit
+bread
+dough
+dried fruit
+chocolate
+crisps
+nori
+Crispy instant noodles
+popcorn
+Crust of rice crust
+French fries
+lollipop
+candy
+melon seed
+nuts
+peanut
+walnut
+Crab meat
+Crab
+pork
+mutton
+ice cream
+Popsicle
+Pet Food
+squids
+molluscs
+Rabbit meat
+Dried bean curd
+Braised vegetarian food
+Goose meat
+Health products
+Goji berry
+sea cucumber
+Dried fish
+Salmon
+sashimi
+kelp
+turtle
+jellyfish
+seafood
+soybean milk
+Tofu pudding
+Mung bean soup
+Red bean soup
+juice
+Orange juice
+Watermelon juice
+Lemon water
+boiled water
+bottled water
+beverage
+tea
+Soymilk 
+powder
+Meal replacement powder
+Cocoa drinks
+Matcha powder
+Milk tea
+milk pudding
+milk
+Milk powder  
+Instant coffee
+coffee
+tea shoots
+Cocktail
+liquor
+chinese liquor
+beer
+wine
+Whiskey
+Hamburgers
+Hot dogs
+Sandwiches
+pizza
+spaghetti
+macaroni
+steak
+Chicken fillet
+fish steak
+Kanto stew
+sukiyaki
+sushi
+Japanese ramen
+tempura
+Sashimi
+Miso soup
+Korean fried rice cake
+rice cake
+Cold noodles
+Army hot pot
+Hainanese chicken rice
+Curry chicken
+Curry beef brisket
+Seafood curry
+French cuisine
+Foie gras
+sausage
+Preserved meat
+meat
+Luncheon meat
+can
+carrot
+shelled peanut
+Potato slice
+agaric
+Spicy Hot Pot
+Deep-Fried Dough Stick、Fried bread stick
+steamed vermicelli roll
+Friedleek dumplings
+eggs
+Fried Eggs
+Boiled egg
+Soft-boiled egg
+salad
+Roasted wings
+Chicken nugget
+Chicken leg
+Onion rings
+egg tart
+toast
+croissant
+Mashed potatoes
+French fries
+mooncake
+Suzhou-style mooncake
+Cantonese mooncake
+cookie
+biscuit
+Compressed biscuit
+pasty
+flatbread
+cake
+donut
+puff
+milkshake
+Herbal jelly
+Ice block
+smoothie
+fruit
+apple
+orange
+mango
+cherries
+peach
+kiwi
+durian
+Strawberries
+grapefruit
+areca nut
+cumquat
+pear
+pomegranate
+lemon
+jackfruit
+litchi
+loquat
+pitaya
+Water chestnuts
+jujube
+Grapes
+Hami melon
+persimmon
+red bayberry
+banana
+papaya
+blueberry
+longan
+pineapple
+carambola
+watermelon
+Canned fruit
+Freeze-dried fruit
+Sweet potato
+garlic
+onion
+Pumpkin
+Fresh ginger
+Tomato
+yam
+taro
+chestnut
+pepper
+vegetables
+turnip
+Chinese cabbage
+allium
+okra
+Water chestnuts/horseshoes
+eggplant
+luffa
+lettuce
+Beansprots
+starch
+Steamed sandwich
+pickles
+Preserved mustard
+Pickled mustard-green
+mushroom
+tremella
+bacon
+ham
+Sheep Scorpion
