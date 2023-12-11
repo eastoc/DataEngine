@@ -1,0 +1,144 @@
+kitchen
+restaurant
+Western restaurant
+Chinese restaurant
+cafe/coffee shop
+Dessert shop
+laboratory
+tavern
+bar
+desk
+bakery
+by the window
+wine cellar
+classroom
+bedroom
+bathroom
+bathtub
+library
+office
+gym
+infirmary
+living room
+cafeteria
+convenience store
+hospital
+arcade
+movie theater/cinema
+factory
+supermarket
+gazebo
+shop/store
+aquarium
+market stall
+barn
+bookstore
+mall
+flower shop
+izakaya
+pharmacy
+salon
+Michelin restaurant
+garden
+grassland
+creek
+Chinese garden
+Western style courtyard
+beach
+woods
+street
+forest 
+Lakeside
+farm
+field
+lake
+river
+market
+mountain view
+desert
+coast
+patio
+garden
+river beach
+orchard
+water
+ocean/sea
+nature
+mountain
+flower field
+waterfall
+bamboo forest
+hill
+cliff
+cave
+pond
+floating island
+island
+volcano
+playground
+amusement park
+meadow
+wetland/swamp/marsh
+canyon
+savannah
+parking lot
+ocean bottom
+wasteland
+plain
+oasis
+glacier
+geyser
+rice paddy
+wheat field
+soccer field
+airfield
+alley
+poolside
+onsen/hotspring
+puddle
+sky
+day
+cloud
+night
+night sky
+moon
+full moon
+starry sky
+rain
+sunset
+shooting star
+sun
+dusk
+skyline
+rainy days
+in spring
+in summer
+in autumn
+in winter
+cloudy
+stars
+in the rain
+wedding
+music Festival
+fireworks
+The Spring Festival
+Mid-autumn(Moon) Festival
+The Dragon Boat Festival
+The Lantern Festival
+ChingMing Festival/Tomb-sweeping Festival
+Tana Bata Festival/Double-Seventh Day/Chinese Valentine's Day
+Zhongyuan Festival
+Double-ninth Day
+New Year's Eve
+christmas
+halloween
+valentine
+Easter
+Thanksgiving Day
+Mother's Day
+Father's Day
+New Year's Day
+National Day
+children's day
+women's day
+labor day
